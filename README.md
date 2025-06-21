@@ -1,0 +1,2 @@
+# License
+Cowrie license.rst
